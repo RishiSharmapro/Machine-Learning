@@ -41,28 +41,6 @@ I applied my visualization skills to a small project using the **Netflix Movies 
 
 ---
 
-## 📁 Structure of This Folder
-
-```bash
-matplotlib/
-├── bar_plot.ipynb
-├── line_plot.ipynb
-├── scatter_plot.ipynb
-├── pie_chart.ipynb
-├── hist_plot.ipynb
-├── netflix_data_analysis.ipynb
-```
-
----
-
-## 🛠 Tech Stack
-
-- Python 🐍
-- Matplotlib 🎨
-- Jupyter Notebook 🧑‍💻
-
----
-
 ## 🧪 Example Visuals
 
 Here are a few sample visualizations from this folder:
@@ -112,4 +90,15 @@ jupyter notebook
 
 3. Open and run any `.ipynb` file interactively.
 
+
 ---
+
+## 🔗 Connect with Me
+
+* 🐦 [Twitter](https://twitter.com/rishisharmapro)
+* 💻 [GitHub](https://github.com/RishiSharmapro)
+* 📊 [Kaggle](https://www.kaggle.com/rishisharmapro)
+
+---
+
+
